@@ -1,5 +1,6 @@
 // First of all we should build the heap
 // We need to implement heapify() & buildHeap() before getting into the algorithm
+
 #include <iostream>
 
 void swap(int *a, int *b)
